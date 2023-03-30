@@ -1,35 +1,13 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+# Presentación Maximiliano Gomez
 
-Bienvenidos a
-# Programación con objetos I
+Mi nombre es Maximiliano, aunque me suelen decir Maxi o Max, tengo 20 años y estudio en la UNAHUR en la carrera Tecnicatura Universitaria en Programación.
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Mis hobbies son:
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+* Videojuegos
+* Cocinar
+* Voley
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes y Jueves 18hs.
-* Horario comisión **turno mañana**: Lunes y Jueves 8hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Lucas Bonadeo, Matías Müller y Tobías Di Salvo.
+Una foto de mi perra Maya:
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1sZLzv_JN1kZeS35DMAUPCQhrWjenc_-VqbywLGje3B4/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/dkTB8wff) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+![Maya](https://github.com/obj1-unahur-2023s1/presentacion-personal-MaxiGomez5431/blob/main/assets/maya.jpeg)
